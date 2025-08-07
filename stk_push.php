@@ -42,7 +42,7 @@ $stkPushData = [
     'PartyA' => $PartyA,
     'PartyB' => $BusinessShortCode,
     'PhoneNumber' => $PartyA,
-    'CallBackURL' => 'https://mydomain.com/callback',
+    'CallBackURL' => 'https://edce5293a322.ngrok-free.app/confirm.php',
     'AccountReference' => 'VillageWiFi',
     'TransactionDesc' => 'WiFi Access'
 ];
